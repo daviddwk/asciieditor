@@ -11,10 +11,16 @@ On startup asciieditor will ask you for the number of frames, height, and width 
 The cursor in asciieditor is signified by an asterisk if it is on a space or it is signified by bolding a charcter if it is on a charcter. When a charcter is typed it is put into the space the cursor is on. If you type a space it will replace the charcter with a space. Arrow keys are used to navigate
 
 The escape key can be used for a few functions. Pressing escape followed by any of the following keys will produce the stated results
+
 f Allows you to enter the color you wish the color with. Pressing enter will apply this color to the charcter you currently have your cursor over.
+
 p Allows cause any charcter that your cusor moves over to change to the color currently selected via the f command.
 arrow keys THe left and right arrow keys allow you to shift through frames. The frame number is displayed in the upper left corner at all times.
+
 i j k l Allows you to shimmy all of the charcter in the frame. Any charcter that are pushed off the edge are lost. i is up. j is left. k is down. l is right.
+
 r Allows you to change the number of frames, height, or width.
+
 c Allows you to copy to another.
+
 w Allows you to write or save your file to.
