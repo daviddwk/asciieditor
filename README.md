@@ -1,3 +1,6 @@
+# old
+This editor is for the old version of freefish. See the editor for the new version [here](https://github.com/daviddwk/BYOfish)!
+
 # asciieditor
 This program was made speficially for making uniform resource files for the program freefish https://github.com/daviddwk/freefish
 You may otherwise find this useful for any similar programs
